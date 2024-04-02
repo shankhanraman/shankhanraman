@@ -1,3 +1,4 @@
+![logo](https://github.com/shankhanraman/shankhanraman/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Shankhan Raman</h1>
 <h3 align="center">Where Ideas Get Built: Machine Learning, Blockchain & More! (Tata Imagination Challenge Semi-Finalist)</h3>
 
