@@ -9,17 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/skhd321" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/skhd321?logo=twitter&style=for-the-badge" alt="https://x.com/skhd321" /></a> </p>
 
-- 🔭 I’m currently working on **Reinforcement Learning Undirected Multiple-Unicast Network Information Flow**
+- 🔭 I’m currently working on **LLM Agents and Blockchain Development**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Blockchain and nural networks from basic**
 
-- 👯 I’m looking to collaborate on **Machine Learning , LLM**
-
-- 🤝 I’m looking for help with **LLM related projects**
+- 👯 I’m looking to collaborate on **Machine learning and Backend Development in Blockchain**
 
 - 📝 I regularly write articles on [https://medium.com/@shankhan.raman](https://medium.com/@shankhan.raman)
-
-- 💬 Ask me about **Python, Deep Learning ,Machine Learning, Web development**
 
 - 📫 How to reach me **shankhan.raman@gmail.com**
 
