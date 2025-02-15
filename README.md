@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shankhan Raman</h1>
+<h1 align="center">Hi 👋 I'm Raman</h1>
 <h3 align="center">CODE | EAT | SLEEP | REPEAT </h3>
 
 <img align ="right " alt = "coding" width="400" src ="gif.gif">
