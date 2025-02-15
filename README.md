@@ -21,7 +21,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hlJoV6BRTKToU_ti0zF8pQ4puCYSTS5G/view?usp=drive_link](https://drive.google.com/file/d/1hlJoV6BRTKToU_ti0zF8pQ4puCYSTS5G/view?usp=drive_link)
 
-- ⚡ Fun fact **My last name is Raman, and guess what? The famous physicist who discovered the Raman effect (and won a Nobel Prize for it) was also Sir C.V. Raman. Spooky coincidence, right? Especially since I went to C.V. Raman Global University! Maybe some of his brilliance rubbed off on me while I was there – after all, I am diving into Machine Learning with projects. Who knows, maybe one day I'll be making groundbreaking discoveries of my own!**
+- ⚡ Fun fact **My last name is Raman, and guess what? The famous physicist who discovered the Raman effect (and won a Nobel Prize for it) was also Sir C.V. Raman. Spooky coincidence, right? Especially since I 
+                went to C.V. Raman Global University! Maybe some of his brilliance rubbed off on me while I was there – after all, I am diving into Machine Learning with projects. Who knows, maybe one day I'll be 
+                making groundbreaking discoveries of my own!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
