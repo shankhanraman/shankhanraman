@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shankhan Raman</h1>
-<h3 align="center">Aspiring Software Developer Seeking Entry-Level Opportunities | Hackathon Winner | HPAIR 2024 Delegate | Hyperloop Conference Finalist | Tata Imagination Challenge 2023 Semi-Finalist | Transforming Ideas into Reality</h3>
+<h3 align="center">CODE|SLEEP|REPEAT </h3>
 
 <img align ="right " alt = "coding" width="400" src ="gif.gif">
 
