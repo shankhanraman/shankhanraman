@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shankhan Raman</h1>
-<h3 align="center">CODE|SLEEP|REPEAT </h3>
+<h3 align="center">CODE | EAT | SLEEP | REPEAT </h3>
 
 <img align ="right " alt = "coding" width="400" src ="gif.gif">
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **LLM Agents and Blockchain Development**
 
-- 🌱 I’m currently learning **Blockchain and nural networks from basic**
+- 🌱 I’m currently learning **Blockchain and neural networks from basic**
 
 - 👯 I’m looking to collaborate on **Machine learning and Backend Development in Blockchain**
 
