@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/skhd321" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/skhd321?logo=twitter&style=for-the-badge" alt="https://x.com/skhd321" /></a> </p>
 
-- 🔭 I’m currently working on **LLM Agents and Blockchain Development**
+- 🔭 I’m currently working on **LLM Agent**
 
-- 🌱 I’m currently learning **Blockchain and neural networks from basic**
+- 🌱 I’m currently learning **neural networks from basic**
 
-- 👯 I’m looking to collaborate on **Machine learning and Backend Development in Blockchain**
+- 👯 I’m looking to collaborate on **Machine learning and Backend Development**
 
 - 📝 I regularly write articles on [https://medium.com/@shankhan.raman](https://medium.com/@shankhan.raman)
 
